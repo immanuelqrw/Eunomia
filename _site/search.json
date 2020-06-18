@@ -1,0 +1,21 @@
+[
+  
+  
+  
+    {
+      "title"    : "Logging like a Lumberjack",
+      "tags"     : "Python and Logging",
+      "categories" : "Code",
+      "url"      : "/logging-like-a-lumberjack/",
+      "date"     : "06/17/2020"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "tags"     : "Example",
+      "categories" : "Blog",
+      "url"      : "/welcome-to-jekyll/",
+      "date"     : "06/14/2020"
+    } 
+  
+]
